@@ -1,3 +1,5 @@
+# various artifacts
+
 *.rbc
 capybara-*.html
 .rspec
@@ -11,6 +13,34 @@ capybara-*.html
 *.orig
 rerun.txt
 pickle-email-*.html
+
+**.war
+*.gem
+*.sassc
+.redcar/
+.config
+.sass-cache
+/public/cache
+/public/stylesheets/compiled
+/public/system/*
+/public/assets/*
+/public/sitemaps
+/spec/tmp/*
+/cache
+/capybara*
+/capybara-*.html
+/gems
+/specifications
+.zeus.sock
+/solr/
+/.gemtags
+/coverage
+/coverage.data
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
 
 # TODO Comment out this rule if you are OK with secrets being uploaded to the repo
 config/initializers/secret_token.rb
@@ -58,5 +88,22 @@ yarn-debug.log*
 .yarn-integrity
 
 # Ignore uploaded files in development
+.gitignore
 /storage/*
 !/storage/.keep
+
+# RubyMine project files
+.idea
+.idea/dataSources/
+
+public/templates/gentelella/*
+public/templates/startbootstrap-sb-admin-2/*
+public/yarn.lock
+vendor/assets/javascripts/jquery-2-2-3/.bower.json
+vendor/assets/javascripts/jquery-2-2-3/AUTHORS.txt
+vendor/assets/javascripts/jquery-2-2-3/LICENSE.txt
+vendor/assets/javascripts/jquery-2-2-3/README.md
+vendor/assets/javascripts/jquery-2-2-3/dist/
+vendor/assets/javascripts/jquery-2-2-3/external/
+vendor/assets/javascripts/jquery-2-2-3/src/
+yarn.lock
