@@ -49,7 +49,7 @@
     <orderEntry type="library" scope="PROVIDED" name="chromedriver-helper (v2.1.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.2.2, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.12.2, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.4.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.4, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.4, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise (v4.5.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
@@ -104,8 +104,11 @@
     <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.9, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tty-cursor (v0.6.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tty-spinner (v0.9.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
+<<<<<<< HEAD
     <orderEntry type="library" scope="PROVIDED" name="turbolinks (v5.2.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turbolinks-source (v5.2.0, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
+=======
+>>>>>>> 195403218251a258d7658371dbcc01e43eed02d7
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.5, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v4.1.20, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="warden (v1.2.8, Remote: ruby-2.4.4p296 ( revision 63013)-p296) [gem]" level="application" />
