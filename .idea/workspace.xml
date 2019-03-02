@@ -2,115 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1508b84-2ee2-4c3e-8b56-d67d96ec4b41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lib/assets/images/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lib/assets/javascripts/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lib/assets/stylesheets/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.generators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/time_to_answer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/time_to_answer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/admins_backoffice.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/javascripts/admins_backoffice.coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/javascripts/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/users_backoffice.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/javascripts/users_backoffice.coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/admins_backoffice.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/stylesheets/admins_backoffice.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/stylesheets/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/users_backoffice.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/stylesheets/users_backoffice.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/admins_backoffice/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/admins_backoffice/welcome/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/layouts/site.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/site.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/site/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/site/welcome/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/environments/production.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/initializers/assets.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/initializers/devise.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/docs/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/docs/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/production/form_advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/production/form_advanced.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/examples/shared/jquery-ui/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/examples/shared/jquery-ui/jquery-ui.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.fillbetween.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.navigate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/example/amd/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/example/amd/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/package.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/package.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/test/publicApiSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/test/publicApiSpec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/datatables.net/js/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/datatables.net/js/jquery.dataTables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/devbridge-autocomplete/gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/devbridge-autocomplete/gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/draggable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/draggable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/ut/core/utHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/ut/core/utHelper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/flot/flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/flot/flot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/vendor/jquery-1.9.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/vendor/jquery-1.9.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/fullcalendar/dist/fullcalendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/fullcalendar/dist/fullcalendar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-mousewheel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-mousewheel/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/src/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/karma.conf.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/karma.conf.coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/jquery.hotkeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/jquery.hotkeys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/inputmask.dependencyLib.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/inputmask.dependencyLib.jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/jquery.inputmask.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/jquery.inputmask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/jquery.inputmask.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/jquery.inputmask.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.date.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.date.extensions.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.dependencyLib.jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.dependencyLib.jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.extensions.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.numeric.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.numeric.extensions.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.regex.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.regex.extensions.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/jquery.inputmask.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/jquery.inputmask.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/cssmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/cssmin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/uglify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/uglify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/exports/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/exports/amd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/create/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/create/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/grunt/uglify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/grunt/uglify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/expect.js/support/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/expect.js/support/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/exports/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/exports/amd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/sizzle/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/docs/vendor/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/docs/vendor/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/jquery-calls.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/jquery-calls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/select2-methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/select2-methods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/jquery-1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/qunit-1.23.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/qunit-1.23.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/vendor/jquery-2.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/vendor/jquery-2.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/js/sb-admin-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/js/sb-admin-2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/datatables/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/datatables/jquery.dataTables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.min.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -140,7 +33,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -229,110 +132,7 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-              <item name="admins_backoffice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="admins_backoffice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="admins_backoffice" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -466,17 +266,18 @@
       <workItem from="1551365409439" duration="7622000" />
       <workItem from="1551462337045" duration="2633000" />
       <workItem from="1551534474998" duration="4325000" />
-      <workItem from="1551556374714" duration="5111000" />
+      <workItem from="1551556374714" duration="6312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33925000" />
+    <option name="totallyTimeSpent" value="35126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="25" width="1280" height="1014" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2893031" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2893031" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -489,7 +290,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6527778" visible="true" weight="0.33107343" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.6527778" visible="true" weight="0.33107343" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3472222" side_tool="true" weight="0.33295584" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.499183" weight="0.3295583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -829,8 +630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="323">
+          <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
         </state>
       </provider>
     </entry>
