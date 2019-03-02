@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1508b84-2ee2-4c3e-8b56-d67d96ec4b41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/time_to_answer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/time_to_answer.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+            <state relative-caret-position="181">
+              <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -133,6 +133,17 @@
               <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,18 +277,18 @@
       <workItem from="1551365409439" duration="7622000" />
       <workItem from="1551462337045" duration="2633000" />
       <workItem from="1551534474998" duration="4325000" />
-      <workItem from="1551556374714" duration="6312000" />
+      <workItem from="1551556374714" duration="7349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35126000" />
+    <option name="totallyTimeSpent" value="36163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="25" width="1280" height="1014" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2893031" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2893031" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,8 +301,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.6527778" visible="true" weight="0.33107343" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3472222" side_tool="true" weight="0.33295584" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6515397" visible="true" weight="0.33107343" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3484603" side_tool="true" visible="true" weight="0.33107343" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.499183" weight="0.3295583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -630,8 +641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+        <state relative-caret-position="181">
+          <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
         </state>
       </provider>
     </entry>

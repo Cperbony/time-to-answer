@@ -96,6 +96,9 @@ yarn-debug.log*
 .idea
 .idea/dataSources/
 
+public/templates/gentelella
+public/templates/startbootstrap-sb-admin-2
+
 public/templates/gentelella/*
 public/templates/startbootstrap-sb-admin-2/*
 public/yarn.lock
@@ -107,3 +110,4 @@ vendor/assets/javascripts/jquery-2-2-3/dist/
 vendor/assets/javascripts/jquery-2-2-3/external/
 vendor/assets/javascripts/jquery-2-2-3/src/
 yarn.lock
+
