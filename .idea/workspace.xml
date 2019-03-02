@@ -2,47 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1508b84-2ee2-4c3e-8b56-d67d96ec4b41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../app/views/layouts/site.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/assets/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/assets/javascripts/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/assets/stylesheets/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/time_to_answer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/time_to_answer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/profiles_backoffice.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/profiles_backoffice/welcome.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/welcome.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/profiles_backoffice.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/profiles_backoffice/welcome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/welcome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/controllers/admins_backoffice_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/controllers/admins_backoffice_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/controllers/profiles_backoffice/welcome_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/controllers/profiles_backoffice_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/controllers/welcome_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/helpers/profiles_backoffice/welcome_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/helpers/profiles_backoffice_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/helpers/welcome_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/models/profile.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/layouts/profiles_backoffice.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/confirmations/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/mailer/confirmation_instructions.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/mailer/email_changed.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/mailer/password_change.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/mailer/reset_password_instructions.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/mailer/unlock_instructions.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/passwords/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/passwords/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/registrations/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/registrations/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/sessions/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/shared/_links.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles/unlocks/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/profiles_backoffice/welcome/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/views/welcome/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/locales/models.pt-BR.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/locales/models.pt-BR.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../db/migrate/20190120235156_devise_create_profiles.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/admins_backoffice.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/javascripts/admins_backoffice.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/users_backoffice.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/javascripts/users_backoffice.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/admins_backoffice.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/stylesheets/admins_backoffice.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/stylesheets/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/users_backoffice.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../app/assets/stylesheets/users_backoffice.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/admins_backoffice/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/admins_backoffice/welcome/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/site.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/site.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/site/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/site/welcome/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/initializers/assets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../config/initializers/devise.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/docs/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/docs/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/production/form_advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/production/form_advanced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/examples/shared/jquery-ui/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/examples/shared/jquery-ui/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/Flot/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/example/amd/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/example/amd/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/package.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-daterangepicker/package.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/test/publicApiSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/bootstrap-datetimepicker/test/publicApiSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/datatables.net/js/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/datatables.net/js/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/devbridge-autocomplete/gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/devbridge-autocomplete/gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/draggable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/draggable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/lib/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/ut/core/utHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/echarts/test/ut/core/utHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/flot/flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/flot/flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/vendor/jquery-1.9.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/flot.orderbars/examples/js/vendor/jquery-1.9.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/fullcalendar/dist/fullcalendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/fullcalendar/dist/fullcalendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-mousewheel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-mousewheel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/dist/jquery.sparkline.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery-sparkline/src/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/karma.conf.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.easy-pie-chart/karma.conf.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/jquery.hotkeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.hotkeys/jquery.hotkeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/inputmask.dependencyLib.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/inputmask.dependencyLib.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/jquery.inputmask.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/inputmask/jquery.inputmask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/jquery.inputmask.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/jquery.inputmask.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.date.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.date.extensions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.dependencyLib.jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.dependencyLib.jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.extensions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.numeric.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.numeric.extensions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.regex.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/inputmask.regex.extensions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/jquery.inputmask.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/inputmask/jquery.inputmask.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/cssmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/cssmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/uglify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery.tagsinput/grunt-tasks/options/uglify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/exports/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/exports/amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/src/intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/create/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/create/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/grunt/uglify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/jqvmap/grunt/uglify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/expect.js/support/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/expect.js/support/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/dist/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/exports/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/exports/amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/sizzle/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/parsleyjs/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/docs/vendor/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/docs/vendor/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/jquery-calls.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/jquery-calls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/select2-methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/integration/select2-methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/jquery-1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/qunit-1.23.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/tests/vendor/qunit-1.23.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/vendor/jquery-2.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/gentelella/vendors/select2/vendor/jquery-2.1.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/js/sb-admin-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/js/sb-admin-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/datatables/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/datatables/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.slim.min.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -57,90 +125,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../app/controllers/users_backoffice/welcome_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../lib/tasks/dev.rake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../config/locales/models.pt-BR.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../app/views/users/sessions/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coffeescript</find>
+      <find>logout</find>
+      <find>logou</find>
+      <find>img</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -157,26 +165,45 @@
         <option value="$PROJECT_DIR$/app/controllers/admins_backoffice/welcome_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/admins_backoffice_controller.rb" />
         <option value="$PROJECT_DIR$/../app/controllers/site/welcome_controller.rb" />
-        <option value="$PROJECT_DIR$/../app/views/layouts/site.html.erb" />
         <option value="$PROJECT_DIR$/../app/controllers/site_controller.rb" />
         <option value="$PROJECT_DIR$/../app/controllers/admins_backoffice_controller.rb" />
         <option value="$PROJECT_DIR$/../app/controllers/profiles_backoffice_controller.rb" />
-        <option value="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" />
         <option value="$PROJECT_DIR$/../config/locales/models.pt-BR.yml" />
         <option value="$PROJECT_DIR$/../app/views/users/sessions/new.html.erb" />
-        <option value="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/../app/controllers/users_backoffice/welcome_controller.rb" />
         <option value="$PROJECT_DIR$/../config/routes.rb" />
         <option value="$PROJECT_DIR$/../lib/tasks/dev.rake" />
+        <option value="$PROJECT_DIR$/../app/views/site/welcome/index.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/admins_backoffice/welcome/index.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb" />
+        <option value="$PROJECT_DIR$/../config/initializers/devise.rb" />
+        <option value="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/scss/bootstrap.scss" />
+        <option value="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/blank.html" />
+        <option value="$PROJECT_DIR$/../app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/site.html.erb" />
+        <option value="$PROJECT_DIR$/../public/templates/gentelella/vendors/fastclick/.bower.json" />
         <option value="$PROJECT_DIR$/../Gemfile" />
+        <option value="$PROJECT_DIR$/../app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/../vendor/assets/javascripts/jquery-2.2.3/dist/jquery.js" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/../lib/assets/stylesheets/sb-admin-2.css" />
+        <option value="$PROJECT_DIR$/../lib/assets/javascripts/sb-admin-2.js" />
+        <option value="$PROJECT_DIR$/../app/assets/stylesheets/admins_backoffice.scss" />
+        <option value="$PROJECT_DIR$/../app/assets/javascripts/admins_backoffice.coffee" />
+        <option value="$PROJECT_DIR$/../app/assets/stylesheets/users_backoffice.scss" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb" />
+        <option value="$PROJECT_DIR$/../config/initializers/assets.rb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb" />
+        <option value="$PROJECT_DIR$/../app/assets/javascripts/users_backoffice.coffee" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1280" />
-    <option name="y" value="27" />
-    <option name="width" value="1270" />
-    <option name="height" value="1012" />
+    <option name="y" value="25" />
+    <option name="width" value="1280" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -184,8 +211,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,21 +229,36 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
               <item name="admins_backoffice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="users_backoffice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
@@ -249,9 +291,7 @@
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="users_backoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
@@ -262,7 +302,37 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="time_to_answer" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,13 +342,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/app/controllers/profiles_backoffice/welcome_controller.rb&#10;/home/perboni/projetos/ruby-projects/time_to_answer/.gitignore&#10;/home/perboni/projetos/ruby-projects/time_to_answer/app/controllers/admins_backoffice/welcome_controller.rb" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/../node_modules/metismenu/package.json&#10;/home/perboni/projetos/ruby-projects/time_to_answer/./app/controllers/profiles_backoffice/welcome_controller.rb&#10;/home/perboni/projetos/ruby-projects/time_to_answer/node_modules/jquery/package.json&#10;/home/perboni/projetos/ruby-projects/time_to_answer/.gitignore&#10;/home/perboni/projetos/ruby-projects/time_to_answer/app/controllers/admins_backoffice/welcome_controller.rb" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Ruby" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../vendor/assets/javascripts" />
+      <recent name="$PROJECT_DIR$/../lib/assets/images" />
+      <recent name="$PROJECT_DIR$/../lib/assets/javascripts" />
+      <recent name="$PROJECT_DIR$/../lib/assets/stylesheets" />
       <recent name="$PROJECT_DIR$/../app/views/users_backoffice/welcome" />
     </key>
   </component>
@@ -383,23 +458,30 @@
       <option name="presentableId" value="Default" />
       <updated>1548697731821</updated>
       <workItem from="1548697737383" duration="972000" />
-      <workItem from="1549634278924" duration="4108000" />
+      <workItem from="1549634278924" duration="4559000" />
+      <workItem from="1550255060685" duration="809000" />
+      <workItem from="1550452669262" duration="7597000" />
+      <workItem from="1551119456105" duration="244000" />
+      <workItem from="1551274169031" duration="53000" />
+      <workItem from="1551365409439" duration="7622000" />
+      <workItem from="1551462337045" duration="2633000" />
+      <workItem from="1551534474998" duration="4325000" />
+      <workItem from="1551556374714" duration="5111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5080000" />
+    <option name="totallyTimeSpent" value="33925000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="27" width="1270" height="1012" extended-state="4" />
-    <editor active="true" />
+    <frame x="1280" y="25" width="1280" height="1014" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25408497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2893031" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.499183" weight="0.3295583" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.498366" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,162 +489,348 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49673203" visible="true" weight="0.3295583" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.503268" side_tool="true" visible="true" weight="0.3295583" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6527778" visible="true" weight="0.33107343" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3472222" side_tool="true" weight="0.33295584" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.499183" weight="0.3295583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" side_tool="true" weight="0.32924837" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../public/templates/gentelella" />
+      <path value="$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/welcome_controller.rb">
+    <entry file="file://$PROJECT_DIR$/../node_modules/@fortawesome/fontawesome-free/css/fontawesome.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/profiles_backoffice/welcome_controller.rb">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/railties-5.2.2/lib/rails/commands/rake/rake_command.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="179">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/admins_backoffice/welcome_controller.rb">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/railties-5.2.2/lib/rails/command.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="187">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/site/welcome_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/layouts/site.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/site_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/profiles_backoffice_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/admins_backoffice_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/layouts/profiles_backoffice.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" lean-forward="true" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/railties-5.2.2/lib/rails/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../config/locales/models.pt-BR.yml">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/bootsnap-1.3.2/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="179">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../config/database.yml">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/spring-2.0.2/lib/spring/client/rails.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="327">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/users/sessions/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/site.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/users_backoffice/welcome/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/controllers/users_backoffice/welcome_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/nprogress/nprogress.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/nprogress/component.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../lib/tasks/dev.rake">
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/nprogress/Notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/nprogress/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/mCSB_buttons.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state>
+          <folding>
+            <element signature="e#22473#22648#2" expanded="true" />
+            <element signature="e#23341#23504#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/malihu-custom-scrollbar-plugin/.bower.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lib/assets/stylesheets/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/fastclick/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lib/assets/javascripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="e#77#84#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vendor/assets/javascripts/jquery-2-2-3/src/css/var/swap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vendor/assets/javascripts/jquery-2-2-3/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/production/images/img.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/admins_backoffice/welcome/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Gemfile">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/pages/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="true" selection-end-line="402" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/dist/css/sb-admin-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" lean-forward="true" selection-end-line="434" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lib/assets/stylesheets/sb-admin-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/dist/js/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <caret line="25" column="35" lean-forward="true" selection-end-line="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lib/assets/javascripts/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/assets/stylesheets/admins_backoffice.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/metismenu/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/startbootstrap-sb-admin-2/vendor/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/production/fixed_sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="32" lean-forward="true" selection-end-line="306" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/admins_backoffice.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/malihu-custom-scrollbar-plugin/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public/templates/gentelella/vendors/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vendor/assets/javascripts/jquery-2-2-3/src/css/var/swap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/jquery/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/assets/javascripts/admins_backoffice.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/users_backoffice.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/assets/stylesheets/users_backoffice.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/assets/javascripts/users_backoffice.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/initializers/assets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>

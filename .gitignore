@@ -60,3 +60,17 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+.idea/dataSources/
+app/helpers/profiles_backoffice/
+
+public/templates/gentelella
+public/templates/startbootstrap-sb-admin-2
+public/yarn.lock
+vendor/assets/javascripts/jquery-2-2-3/.bower.json
+vendor/assets/javascripts/jquery-2-2-3/AUTHORS.txt
+vendor/assets/javascripts/jquery-2-2-3/LICENSE.txt
+vendor/assets/javascripts/jquery-2-2-3/README.md
+vendor/assets/javascripts/jquery-2-2-3/dist/
+vendor/assets/javascripts/jquery-2-2-3/external/
+vendor/assets/javascripts/jquery-2-2-3/src/
+yarn.lock
